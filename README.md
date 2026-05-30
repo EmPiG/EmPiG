@@ -1,9 +1,9 @@
 ## Hi, I'm Maciej 👋
 
-In love with UX 
 
-- ⚡ Fun fact: BSc Economics, self-taught programmer and design passionate :D
+
+- ⚡ Some facts: Designer at heart, self-taught programmer and BSc in Economics :D
 - 🔭 I’m currently working on integrating AI tools and custom skills.
-- 🔍 I specialize in behavioral UX analysis
+- 🔍 I specialize in UX and CRO
 - 📫 How to reach me: hello@maciejplichta.pl
 - 📍 Based in Poland, working with clients across Europe
